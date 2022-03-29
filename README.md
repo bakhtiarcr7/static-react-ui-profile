@@ -15,6 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 https://bakhtiarcr7.github.io/static-react-ui-profile
 
 ### Components used
-- Custome CSS
+- Custom CSS
 - Figma prototypes
 - Boostrap
