@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static-react-ui-profile/static/css/main.a4ccdeeb.css",
+    "main.js": "/static-react-ui-profile/static/js/main.b3353dc2.js",
+    "static/js/787.e0318d6c.chunk.js": "/static-react-ui-profile/static/js/787.e0318d6c.chunk.js",
+    "static/media/passport-card.jpg": "/static-react-ui-profile/static/media/passport-card.a1b82daf9f1d48b9d34f.jpg",
+    "static/media/bootstrap-icons.woff?": "/static-react-ui-profile/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/static-react-ui-profile/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/static-react-ui-profile/index.html",
+    "main.a4ccdeeb.css.map": "/static-react-ui-profile/static/css/main.a4ccdeeb.css.map",
+    "main.b3353dc2.js.map": "/static-react-ui-profile/static/js/main.b3353dc2.js.map",
+    "787.e0318d6c.chunk.js.map": "/static-react-ui-profile/static/js/787.e0318d6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ccdeeb.css",
+    "static/js/main.b3353dc2.js"
+  ]
+}
